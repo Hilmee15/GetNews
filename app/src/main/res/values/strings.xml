@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Get News</string>
+    <string name="test">Test</string>
+    <string name="name">Ahmad Hilmi Tamaam</string>
+    <string name="email">hilstore75@gmail.com</string>
+    <string name="xp">400 XP</string>
+    <string name="joined">Bergabung sejak 01 Maret 2022</string>
+    <string name="img_desc">kelas</string>
+    <string name="profile">Profile</string>
+</resources>
